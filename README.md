@@ -51,7 +51,7 @@ UDP adalah protokol *connectionless*. Tidak perlu membuat koneksi, langsung kiri
 
 1. **Jalankan Server terlebih dahulu:**
 ```bash
-python TCP/tcpServer.py
+tcpServer.py
 ```
 
 **Output Server:**
@@ -60,7 +60,7 @@ python TCP/tcpServer.py
 
 2. **Di terminal lain, jalankan Socket:**
 ```bash
-python TCP/tcpSocket.py
+tcpSocket.py
 ```
 
 **Output Client:**
@@ -73,7 +73,7 @@ python TCP/tcpSocket.py
 
 1. **Jalankan Server terlebih dahulu:**
 ```bash
-python UDP/udpServer.py
+udpServer.py
 ```
 
 **Output Server:**
@@ -82,7 +82,7 @@ python UDP/udpServer.py
 
 2. **Di terminal lain, jalankan Client:**
 ```bash
-python UDP/udpSocket.py
+udpSocket.py
 ```
 
 **Output Client:**
