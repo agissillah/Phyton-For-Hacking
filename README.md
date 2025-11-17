@@ -56,15 +56,14 @@ python TCP/tcpServer.py
 
 **Output Server:**
 
-[![TCP Server Output](TcpServer.png)](https://raw.githubusercontent.com/agissillah/Phyton-For-Hacking/main/TCP/TcpServer.png
-)
+![TCP Server](https://raw.githubusercontent.com/agissillah/Phyton-For-Hacking/main/TCP/TcpServer.png)
 
 2. **Di terminal lain, jalankan Client:**
 ```bash
 python TCP/tcpSocket.py
 ```
 
-**Output Client:**
+**Output Socket:**
 
 ![TCP Socket](https://raw.githubusercontent.com/agissillah/Phyton-For-Hacking/main/TCP/TcpSocket.png)
 
