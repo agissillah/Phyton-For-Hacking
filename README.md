@@ -88,11 +88,6 @@ python udpSocket.py
     └── udpSocket.py
 ```
 
-## Requirements
-
-- Python 3.6 atau lebih baru
-- Tidak perlu library tambahan (menggunakan `socket` built-in)
-
 ## Catatan
 
 - Pastikan port `12345` tidak digunakan oleh aplikasi lain
@@ -100,10 +95,3 @@ python udpSocket.py
 - Gunakan `Ctrl+C` untuk menghentikan server
 - Untuk testing di jaringan lokal, ganti `127.0.0.1` dengan IP address server
 
-## Lisensi
-
-Proyek ini dibuat untuk tujuan pembelajaran.
-
-## Kontribusi
-
-Silakan fork dan submit pull request untuk improvement!
