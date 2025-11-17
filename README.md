@@ -87,7 +87,7 @@ python UDP/udpSocket.py
 
 **Output Client:**
 
-![UDP Client Output](UdpSocket.png)
+![UDP Socket](./UDP/UdpSocket.png)
 
 3. **Masukkan pesan** yang ingin dikirim, server akan membalas dengan huruf kapital.
 
