@@ -56,7 +56,8 @@ python TCP/tcpServer.py
 
 **Output Server:**
 
-![TCP Server Output](TcpServer.png)
+[![TCP Server Output](TcpServer.png)](https://raw.githubusercontent.com/agissillah/Phyton-For-Hacking/main/TCP/TcpServer.png
+)
 
 2. **Di terminal lain, jalankan Client:**
 ```bash
@@ -65,7 +66,7 @@ python TCP/tcpSocket.py
 
 **Output Client:**
 
-![TCP Client Output](TcpSocket.png)
+![TCP Socket](https://raw.githubusercontent.com/agissillah/Phyton-For-Hacking/main/TCP/TcpSocket.png)
 
 3. **Masukkan pesan** yang ingin dikirim, server akan membalas dengan huruf kapital.
 
