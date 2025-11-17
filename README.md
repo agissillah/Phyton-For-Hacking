@@ -78,7 +78,7 @@ python UDP/udpServer.py
 
 **Output Server:**
 
-![UDP Server Output](UdpServer.png)
+![UDP Server](./UDP/UdpServer.png)
 
 2. **Di terminal lain, jalankan Client:**
 ```bash
