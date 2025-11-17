@@ -58,7 +58,7 @@ tcpServer.py
 
 ![TCP Server](https://raw.githubusercontent.com/agissillah/Phyton-For-Hacking/main/TCP/TcpServer.png)
 
-2. **Di terminal lain, jalankan Socket:**
+2. **Di terminal lain, jalankan Client:**
 ```bash
 tcpSocket.py
 ```
